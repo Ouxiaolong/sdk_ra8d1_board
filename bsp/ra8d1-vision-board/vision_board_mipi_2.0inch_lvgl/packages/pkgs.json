@@ -1,0 +1,12 @@
+[
+ {
+  "name": "LVGL",
+  "path": "/packages/multimedia/LVGL/LVGL",
+  "ver": "v9.1.0"
+ },
+ {
+  "name": "CST812T",
+  "path": "/packages/peripherals/touch/cst812t",
+  "ver": "latest"
+ }
+]
