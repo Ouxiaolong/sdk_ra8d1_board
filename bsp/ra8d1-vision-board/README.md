@@ -28,6 +28,7 @@ $ ra8d1-vision-board
 ├── vision_board_camera
 ├── vision_board_mipi_2.0inch
 ├── vision_board_mipi_2.0inch_lvgl
+├── vision_board_wifi
 ```
 
 - documents: Includes drawings, documents, images, datasheets, etc.
