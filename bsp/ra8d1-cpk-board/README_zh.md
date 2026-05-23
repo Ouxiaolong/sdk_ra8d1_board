@@ -69,6 +69,7 @@ $ ra8d1-cpk-board
 ├── cpk_board_blink_led
 ├── cpk_board_mipi_lcd
 ├── cpk_board_mipi_lvgl
+├── cpk_board_ethernet
 ```
 
 - documents：图纸，文档，图片以及 datasheets 等

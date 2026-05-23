@@ -415,7 +415,7 @@
 #endif
 
 #ifndef BSP_CFG_SDRAM_ACCESS_MODE
- #define BSP_CFG_SDRAM_ACCESS_MODE  (1)
+ #define BSP_CFG_SDRAM_ACCESS_MODE  (0)
 #endif
 
 #ifndef BSP_CFG_SDRAM_BUS_WIDTH
