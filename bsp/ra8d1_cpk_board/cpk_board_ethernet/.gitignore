@@ -1,5 +1,14 @@
 /RTE
 /Listings
 /Objects
-ra_cfg.txt
-
+/Debug
+/build
+/rtconfig.pyc
+/rt-thread
+/libraries
+/project.custom_argvars
+/.vscode
+/__pycache
+/settings
+/cmake
+/.clangd
